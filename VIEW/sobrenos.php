@@ -1,0 +1,1 @@
+<h2><p>Somos apaixonados por estrategias e jogos de guerra e por isso oferecemos aqui a sua plataforma para ficar por dentro dos lançamentos de dota 2<br> assim como poder saber mais sobre seus herois favoritos</p></h2>
