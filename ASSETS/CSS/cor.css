@@ -1,0 +1,22 @@
+.fundo-cor-primaria
+{
+	background-color: #333333;
+}
+.bordas
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+}
+.sem-efeito
+{
+	text-decoration: none;
+}
+.label-branco
+{
+	color: #FFFFFF;
+}
+.background-preto
+{
+	background:rgba(0,0,0,0.5);
+}

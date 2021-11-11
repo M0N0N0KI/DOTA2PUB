@@ -1,0 +1,35 @@
+.menu-icone-principal
+{
+	width: 20%;
+}
+.coluna
+{
+	width: fit-content;
+	position: relative;
+	display: flex;
+}
+.linha
+{
+	overflow: hidden;
+  	width: 100%;
+  	display: flex;
+    align-items: center;
+}
+.banner
+{
+	position: relative;
+	overflow: hidden;
+	width: 900px;
+	height: 500px;
+	display: flex;
+	background-size: cover;
+}
+.banner-label
+{
+	width: 100%;
+	position: relative;
+}
+.lista
+{
+	list-style-type: none;
+}
